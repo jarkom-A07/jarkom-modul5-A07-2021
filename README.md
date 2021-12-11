@@ -178,3 +178,33 @@ Ketika 3 ping bisa
 4 ping, tidak bisa
 
 ![](./images/media/image30.png)
+
+
+4.  **dan 5. Membatasi akses ke Doriki pada jam tertentu**
+
+Melakukan konfigurasi pada Doriki pada jam 7-15 untuk Blueno dan Cipher
+
+![](./images/media/image19.png)
+
+Melakukan testing pada Blueno (Tidak bisa karena hari Sabtu malam)
+
+![](./images/media/image16.png)
+
+Melakukan konfigurasi pada Doriki pada jam 15-7 untuk Elena dan Fukuro
+
+![](./images/media/image20.png)
+
+Melakukan testing pada Elena (bisa, karena minggu malam)
+
+![](./images/media/image26.png)
+
+**6. Mendistribusikan DNS Server ke Jorge dan Maingate**
+
+Melakukan konfigurasi pada Guanhao
+
+![](./images/media/image10.png)
+
+Melakukan testing antara Maingate dengan Elena
+
+![](./images/media/image28.png)
+
